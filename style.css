@@ -21,7 +21,7 @@ body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 canvas{
-    box-shadow: 5px 5px 5px gray;
-    border-radius: 10px;
-    border: solid 3px rgb(100, 129, 245);
+    box-shadow: 5px 5px 10px gray;
+    border-radius: 15px;
+    border: solid 5px rgb(100, 129, 245);
 }
