@@ -25,3 +25,6 @@ canvas{
     border-radius: 15px;
     border: solid 5px rgb(100, 129, 245);
 }
+#word{
+    width: 400px;
+}
